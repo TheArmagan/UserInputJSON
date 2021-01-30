@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LowLevelInput.Net/1.36.6": {
+        "type": "package",
+        "compile": {
+          "lib/LowLevelInput.dll": {}
+        },
+        "runtime": {
+          "lib/LowLevelInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LowLevelInput.Net/1.36.6": {
+      "sha512": "CTQFfpAh8V8jKppL0k34Xbr95Q3hfEKvl+bYYBvE0cTh+hiSQj6PhE0qd8jkbOBfA0O7KhDJgYC6qWa7LqBQtw==",
+      "type": "package",
+      "path": "lowlevelinput.net/1.36.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/LowLevelInput.dll",
+        "lib/LowLevelInput.xml",
+        "lowlevelinput.net.1.36.6.nupkg.sha512",
+        "lowlevelinput.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LowLevelInput.Net >= 1.36.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BDT\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
+      "projectName": "UserInputJSON",
+      "projectPath": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
+      "packagesPath": "C:\\Users\\BDT\\.nuget\\packages\\",
+      "outputPath": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BDT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "LowLevelInput.Net": {
+            "target": "Package",
+            "version": "[1.36.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'LowLevelInput.Net 1.36.6' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "LowLevelInput.Net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

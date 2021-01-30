@@ -1,0 +1,14 @@
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.exe
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.deps.json
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.runtimeconfig.json
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.runtimeconfig.dev.json
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.dll
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\UserInputJSON.pdb
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\bin\Release\netcoreapp3.1\LowLevelInput.dll
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.AssemblyInfoInputs.cache
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.AssemblyInfo.cs
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.csproj.CoreCompileInputs.cache
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.csproj.CopyComplete
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.dll
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.pdb
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.genruntimeconfig.cache
