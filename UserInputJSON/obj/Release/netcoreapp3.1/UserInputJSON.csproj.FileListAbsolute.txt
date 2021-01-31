@@ -12,3 +12,4 @@ D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\Us
 D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.dll
 D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.pdb
 D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.genruntimeconfig.cache
+D:\BDT\Documents\GitHub\UserInputJSON\UserInputJSON\obj\Release\netcoreapp3.1\UserInputJSON.csprojAssemblyReference.cache
