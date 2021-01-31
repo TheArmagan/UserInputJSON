@@ -29,7 +29,7 @@ namespace UserInputJSON
         {
             string keyCode = ((int)key).ToString();
 
-            Console.WriteLine(@"{{""event"":{{""base"":""keyboard"",""type"":""{1}""}},""key"":{0}}}", keyCode, (state == KeyState.Down ? "keydown" : (state == KeyState.Up ? "keyup" : (state == KeyState.Pressed ? "keypress" : ""))));
+            Console.WriteLine(@"{{""event"":{{""base"":""keyboard"",""type"":""{1}""}},""data"":{{""key"":{0}}}}}", keyCode, (state == KeyState.Down ? "keydown" : (state == KeyState.Up ? "keyup" : (state == KeyState.Pressed ? "keypress" : ""))));
         }
     }
 }
