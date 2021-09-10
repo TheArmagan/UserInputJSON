@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj": {}
+    "C:\\Users\\Armagan\\Source\\Repos\\TheArmagan\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj": {}
   },
   "projects": {
-    "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj": {
+    "C:\\Users\\Armagan\\Source\\Repos\\TheArmagan\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
+        "projectUniqueName": "C:\\Users\\Armagan\\Source\\Repos\\TheArmagan\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
         "projectName": "UserInputJSON",
-        "projectPath": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
-        "packagesPath": "C:\\Users\\BDT\\.nuget\\packages\\",
-        "outputPath": "D:\\BDT\\Documents\\GitHub\\UserInputJSON\\UserInputJSON\\obj\\",
+        "projectPath": "C:\\Users\\Armagan\\Source\\Repos\\TheArmagan\\UserInputJSON\\UserInputJSON\\UserInputJSON.csproj",
+        "packagesPath": "C:\\Users\\Armagan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armagan\\Source\\Repos\\TheArmagan\\UserInputJSON\\UserInputJSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\BDT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Armagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +32,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,10 +44,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "LowLevelInput.Net": {
               "target": "Package",
               "version": "[1.36.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -63,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
